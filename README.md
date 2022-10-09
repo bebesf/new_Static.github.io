@@ -12,9 +12,9 @@ __
 
 
 ## Emphasis
-*This is a clear text*
+*This is a bold text*
 
-__This is bold text__
+
 
 This is italic text
 
