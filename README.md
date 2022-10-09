@@ -18,7 +18,7 @@ __
 
 This is italic text
 
-This is italic text
+This is a static website 
 
 ~Strikethrough~
 
@@ -45,7 +45,7 @@ unordered
    
    Lorem ipsum dolsr sit amet
    Consectetur adipiscing elit
-   Integer molestie lorem at massa
+   hello world!
    
    ## Code
    
